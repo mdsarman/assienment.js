@@ -1,4 +1,7 @@
 
+
+
+
 // KilometertoMeter//
 function kilometerToMeter(kilometer) {
 
@@ -37,10 +40,6 @@ function hotelCost(firsttendays, secondtendays, thirdtendays) {
 }
 var sum =hotelCost(200*10, 180*10, 150*10);
 console.log(sum);
-
-
-
-
 
 
     
