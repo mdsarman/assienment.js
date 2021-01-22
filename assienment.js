@@ -1,6 +1,4 @@
 
-
-
 // KilometertoMeter//
 function kilometerToMeter(kilometer) {
 
@@ -43,10 +41,6 @@ console.log(sum);
 
 
 
-//Megafriend//
 
-function megaFriend() {
-    var friendsname =[mojid, kalam, jalaam, king, abbir, shonali, motaleb, papiya, sarman, mojiburrahaman , monir,]
-    return friendsname;
-}
-var 
+
+    
